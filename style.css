@@ -1,7 +1,5 @@
 h3{
     font-size: 25px !important;
-    font-weight: 900;
-    color: black;
 }
 
 
@@ -12,7 +10,5 @@ border: 10px solid black;
 }
 
 button{
-    font-size: 25px !important;
-    width: 240px;
-    
+    font-size: 25px !important;  
 }
